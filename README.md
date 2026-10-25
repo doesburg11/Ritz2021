@@ -1,3 +1,25 @@
+## Local reproduction results — completed 25 October 2026
+
+The closest traceable Figure 3 reconstruction completed **20 seeded training runs and 400 evaluation episodes**. It **did not demonstrate sustainable herding**: both predators were dead at the end of every evaluation episode. Remaining prey therefore do not establish a maintained predator–prey ecosystem.
+
+| Measure | Result |
+|---|---:|
+| Mean catches per evaluation episode | 7.1825 |
+| Mean surviving prey | 1.315 |
+| Both predators alive at episode end | 0 / 400 |
+| Below-ceiling prey with both predators alive | 0 / 400 |
+| Prey extinction | 63 / 400 (15.75%) |
+
+The tested configuration is `ma3_obs_starve_maxsteps_t800_5fish_two_net`, using the released learning implementation and explicit training seeds 42–61. The exact model/configuration that produced the paper's Figure 3 cannot be verified, so this result does not refute the paper. See [results.md](results.md) for methods, per-seed results and limitations, and [FIGURE3_REPRODUCTION.md](FIGURE3_REPRODUCTION.md) for the default/provenance audit.
+
+The material below is the original upstream project description and its reported results; the local reproduction outcome is separate.
+
+---
+
+Figure 3 reconstruction and default audit: [FIGURE3_REPRODUCTION.md](FIGURE3_REPRODUCTION.md).
+
+Local installation: see [LOCAL_SETUP.md](LOCAL_SETUP.md) for the isolated Ritz2021 environment, verification, and run commands.
+
 
 ![Environment](.github/coop_movie_frames2.png)
 

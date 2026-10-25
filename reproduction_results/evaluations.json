@@ -1,0 +1,4162 @@
+[
+  {
+    "training_seed": 42,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104200,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104201,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104202,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104203,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104204,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104205,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104206,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104207,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104208,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 11,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104209,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104210,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104211,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104212,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104213,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104214,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104215,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104216,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104217,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104218,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104219,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 43,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104300,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104301,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104302,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104303,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104304,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104305,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104306,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104307,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104308,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104309,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104310,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104311,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104312,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104313,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104314,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104315,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104316,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104317,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104318,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104319,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 44,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104400,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104401,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104402,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104403,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104404,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104405,
+        "steps": 1251,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104406,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104407,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104408,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104409,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104410,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104411,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104412,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104413,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104414,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104415,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104416,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104417,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104418,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104419,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 45,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104500,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104501,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104502,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104503,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104504,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104505,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104506,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104507,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104508,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104509,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104510,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104511,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104512,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104513,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104514,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104515,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104516,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104517,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104518,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104519,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 46,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104600,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104601,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104602,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104603,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104604,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104605,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104606,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104607,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104608,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104609,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104610,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104611,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104612,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104613,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104614,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104615,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104616,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104617,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104618,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104619,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 47,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104700,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104701,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104702,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104703,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104704,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104705,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104706,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104707,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104708,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104709,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104710,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104711,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104712,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104713,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104714,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104715,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104716,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104717,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104718,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104719,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 48,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104800,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104801,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104802,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104803,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104804,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104805,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104806,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104807,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104808,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104809,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104810,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104811,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104812,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104813,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104814,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104815,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104816,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104817,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104818,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104819,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 49,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 104900,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104901,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104902,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104903,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104904,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104905,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104906,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104907,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104908,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104909,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104910,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104911,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104912,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104913,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104914,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104915,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104916,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104917,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104918,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 104919,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 50,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105000,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105001,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105002,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105003,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105004,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105005,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105006,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105007,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105008,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105009,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105010,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105011,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105012,
+        "steps": 3000,
+        "final_prey": 5,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105013,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105014,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105015,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105016,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105017,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105018,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105019,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 51,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105100,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105101,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105102,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105103,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105104,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105105,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105106,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105107,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105108,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105109,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105110,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105111,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105112,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105113,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105114,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105115,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105116,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105117,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105118,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105119,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 52,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105200,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105201,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105202,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105203,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105204,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105205,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105206,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105207,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105208,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105209,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105210,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105211,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105212,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105213,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105214,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105215,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105216,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105217,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105218,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105219,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 53,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105300,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105301,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105302,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105303,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105304,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105305,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105306,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105307,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105308,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105309,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105310,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105311,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105312,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105313,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105314,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105315,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105316,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105317,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105318,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105319,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 54,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105400,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105401,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105402,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105403,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105404,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105405,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105406,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105407,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105408,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105409,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105410,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105411,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105412,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105413,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105414,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105415,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105416,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105417,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105418,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105419,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 55,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105500,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105501,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105502,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105503,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105504,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105505,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105506,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105507,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105508,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105509,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105510,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105511,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105512,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105513,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105514,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105515,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105516,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105517,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105518,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105519,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 56,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105600,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105601,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105602,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105603,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105604,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105605,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105606,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105607,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105608,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105609,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105610,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105611,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105612,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105613,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105614,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105615,
+        "steps": 3000,
+        "final_prey": 4,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105616,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105617,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105618,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105619,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 57,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105700,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105701,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105702,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105703,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105704,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105705,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105706,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105707,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105708,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105709,
+        "steps": 1176,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105710,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105711,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105712,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105713,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105714,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105715,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105716,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105717,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105718,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105719,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 58,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105800,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105801,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105802,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105803,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105804,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105805,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105806,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105807,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105808,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105809,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105810,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105811,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105812,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105813,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105814,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105815,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105816,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 10,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105817,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105818,
+        "steps": 3000,
+        "final_prey": 3,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105819,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 59,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 105900,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105901,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105902,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105903,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105904,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105905,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105906,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105907,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105908,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105909,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105910,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105911,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105912,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105913,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105914,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105915,
+        "steps": 1251,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105916,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105917,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105918,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 105919,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 60,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 106000,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106001,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106002,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106003,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106004,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106005,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106006,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106007,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106008,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106009,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106010,
+        "steps": 1026,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 5,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106011,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106012,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106013,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106014,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106015,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106016,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106017,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106018,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106019,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  },
+  {
+    "training_seed": 61,
+    "config_id": "ma3_obs_starve_maxsteps_t800_5fish_two_net",
+    "smoke": false,
+    "episodes": [
+      {
+        "seed": 106100,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106101,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106102,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 9,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106103,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106104,
+        "steps": 1101,
+        "final_prey": 0,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": false,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106105,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106106,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106107,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106108,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106109,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 6,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106110,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106111,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106112,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106113,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106114,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106115,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106116,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106117,
+        "steps": 3000,
+        "final_prey": 2,
+        "final_sharks": 0,
+        "catches": 8,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106118,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      },
+      {
+        "seed": 106119,
+        "steps": 3000,
+        "final_prey": 1,
+        "final_sharks": 0,
+        "catches": 7,
+        "late_catches": 0,
+        "paper_endpoint_proxy": true,
+        "below_ceiling_with_two_sharks": false
+      }
+    ],
+    "notes": "Original training condition; endpoint proxies do not prove deliberate restraint."
+  }
+]

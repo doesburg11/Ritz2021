@@ -17929,5 +17929,34 @@
             "cliprange": 0.1,
             "two_nets": true
         }
+    },
+    "local_smoke_shared": {
+        "base_cfg": "ma9_base_sp200",
+        "desc": "Installation check only: 2 updates of 64 steps; not a paper reproduction.",
+        "aquarium": {
+            "max_steps": 64,
+            "show_gui": false,
+            "shark_agents": 2
+        },
+        "ppo": {
+            "total_timesteps": 128,
+            "two_nets": false,
+            "log_interval": 1
+        }
+    },
+    "local_smoke_independent": {
+        "base_cfg": "ma9_base_sp200",
+        "desc": "Installation check only: 2 updates of 64 steps; not a paper reproduction.",
+        "aquarium": {
+            "max_steps": 64,
+            "show_gui": false,
+            "shark_agents": 2
+        },
+        "ppo": {
+            "total_timesteps": 128,
+            "two_nets": true,
+            "log_interval": 1
+        }
     }
+
 }

@@ -1,0 +1,195 @@
+{
+  "completed_training_runs": 20,
+  "per_training_run": [
+    {
+      "seed": 42,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.75,
+      "mean_final_prey": 2.2,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 43,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.0,
+      "mean_final_prey": 0.9,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 44,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.15,
+      "mean_final_prey": 0.45,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 45,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 8.35,
+      "mean_final_prey": 2.25,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 46,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.65,
+      "mean_final_prey": 0.85,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 47,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.2,
+      "mean_final_prey": 1.05,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 48,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.0,
+      "mean_final_prey": 0.9,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 49,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.0,
+      "mean_final_prey": 1.3,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 50,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 8.05,
+      "mean_final_prey": 2.55,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 51,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.95,
+      "mean_final_prey": 1.0,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 52,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.1,
+      "mean_final_prey": 1.0,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 53,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.0,
+      "mean_final_prey": 0.1,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 54,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.3,
+      "mean_final_prey": 0.8,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 55,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.6,
+      "mean_final_prey": 2.4,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 56,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 8.4,
+      "mean_final_prey": 2.25,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 57,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.15,
+      "mean_final_prey": 0.95,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 58,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 8.3,
+      "mean_final_prey": 2.25,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 59,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.95,
+      "mean_final_prey": 1.05,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 60,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 6.65,
+      "mean_final_prey": 1.0,
+      "below_ceiling_with_late_hunting": 0.0
+    },
+    {
+      "seed": 61,
+      "episodes": 20,
+      "below_ceiling_with_two_sharks": 0.0,
+      "mean_catches": 7.1,
+      "mean_final_prey": 1.05,
+      "below_ceiling_with_late_hunting": 0.0
+    }
+  ],
+  "metrics": {
+    "below_ceiling_with_two_sharks": {
+      "mean_across_training_runs": 0.0,
+      "t_interval_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "below_ceiling_with_late_hunting": {
+      "mean_across_training_runs": 0.0,
+      "t_interval_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "mean_catches": {
+      "mean_across_training_runs": 7.1825,
+      "t_interval_95": [
+        6.864417330833978,
+        7.500582669166022
+      ]
+    },
+    "mean_final_prey": {
+      "mean_across_training_runs": 1.315,
+      "t_interval_95": [
+        0.9788705709822014,
+        1.6511294290177985
+      ]
+    }
+  }
+}

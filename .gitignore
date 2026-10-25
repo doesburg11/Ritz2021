@@ -26,3 +26,18 @@ runs_tars/
 old/
 paper/
 *.egg-info
+
+# Local reproduction environment and downloaded dependency source
+.venv/
+.python/
+vendor/
+*.cpp
+local-artifacts/
+
+# Generated local smoke checkpoints and event logs
+models/local_smoke_*/
+runs/*local_smoke_*/
+
+# Generated training checkpoints and TensorBoard runs
+models/
+runs/
